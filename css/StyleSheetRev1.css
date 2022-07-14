@@ -1,0 +1,48 @@
+body {
+background-color: white;
+color: darkgrey;
+font-family: Futura,Impact,Helvetica,sans-serif;
+font-size: 125%;
+}
+body.home {
+	background-image: url("images/towers.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+  	background-attachment: fixed; 
+	
+}
+
+body.townroad {
+	background-image: url("images/alley.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;  	
+  	background-attachment: fixed; 
+}
+
+body.tavern {
+	background-image: url("images/tavern.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;  	
+  	background-attachment: fixed; 
+}
+
+body.village {
+	background-image: url("images/town.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;  	
+  	background-attachment: fixed; 
+}
+
+body.pathdock {
+	background-image: url("images/alley2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;  	
+  	background-attachment: fixed; 
+}
+
+body.maindock {
+	background-image: url("images/port3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;  	
+  	background-attachment: fixed; 
+}
